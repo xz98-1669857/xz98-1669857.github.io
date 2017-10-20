@@ -1,0 +1,121 @@
+body{
+    background-image: url('regal.png');
+}
+
+p{
+    font-weight: bold;
+    font-family: "Arial";
+    color: DarkKhaki ;
+}
+
+h3{
+  color: #FFBC00;
+  font size: 40px;
+  font-family:"Passion One";
+  margin-bottom: 0px;
+}
+
+li{
+
+}
+
+#Header{
+    border: solid 8px black;
+    width: 500px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: lightblue;
+}
+
+#Header h1{
+    font-size: 60px;
+    font-family: "Passion One";
+    color: #FFBC00;
+    font-weight: bold;
+}
+
+#Intro{
+    width: 400px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    float: left;
+    text-align: center;
+    background-color: lightblue;
+    padding-bottom: 8px;
+}
+
+#Intro img{
+
+}
+
+#Intro ul{
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+#Intro h3{
+    color: #FFBC00;
+    font size: 60px;
+    font-family:"Passion One";
+    margin-bottom: 0px;
+}
+
+#Intro a{
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+#Intro p{
+
+}
+
+#Content{
+    width: 700px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 15px;
+    color: white;
+    font-weight: bold;
+    font-family: arial;
+    background-color: lightblue;
+}
+
+#Content h3{
+    color: #FFBC00;
+    font size: 60px;
+    font-family:"Passion One";
+    margin-bottom: 0px;
+}
+
+#Footer{
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: white;
+}
+
+#Footer ul{
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+#Footer a{
+    color: DarkKhaki;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+#Footer h3{
+    color: #FFBC00;
+    font size: 40px;
+    font-family:"Passion One";
+    margin-bottom: 0px;
+}
